@@ -44,7 +44,9 @@ html {
   
   
   .button {
+    display: inline-block;
+    background: aquamarine;
     animation-name: stretching;
-    animation-duration: 1s;
+    animation-duration: 300s;
   }
   
